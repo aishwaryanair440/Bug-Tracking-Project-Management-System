@@ -1,0 +1,11 @@
+{
+  "title": "BUG TRACKING AND PROJECT MANAGEMENT SYSTEM",
+  "description": "This platform streamlines project management for students and faculty, enabling students to create and submit projects for faculty review within a unified interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
